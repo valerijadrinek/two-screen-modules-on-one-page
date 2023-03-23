@@ -1,4 +1,4 @@
-#
+#Picture in picture mode
 
 ## Login
 
@@ -33,5 +33,5 @@ User can enjoy to see it everywhere, while he is working.
 
 # 💻 Development
 1. run index.html on your browser
-2. git clone https://github.com/valerijadrinek/image-gallery.git
-3. github pages https://valerijadrinek.github.io/image-gallery/
+2. git clone https://github.com/valerijadrinek/two-screen-modules-on-one-page.git
+
